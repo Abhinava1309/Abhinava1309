@@ -1,4 +1,5 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="Abhinava1309
+/White Minimalist Corporate Personal Profile LinkedIn Banner.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Abhinava Ghosh 👋🏼:
 # 💫 About Me:
